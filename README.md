@@ -1,12 +1,9 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/-SELVAMUTHUKUMARAN%20G-000000?style=for-the-badge&labelColor=000000&color=C9A227" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Selvamuthukumaran%20G&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-# ✦ A I   &   D A T A   S C I E N C E ✦
-### *Engineering Intelligence, One System at a Time*
-
-<img src="https://img.shields.io/badge/status-open%20to%20opportunities-2E2E2E?style=for-the-badge&labelColor=000000&color=C9A227" />
-<img src="https://komarev.com/ghpvc/?username=Smk2409&style=for-the-badge&color=C9A227&labelColor=000000" alt="profile views" />
+<img src="https://img.shields.io/badge/status-open%20to%20opportunities-00C853?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://komarev.com/ghpvc/?username=Smk2409&style=for-the-badge&color=FF6B6B&labelColor=1a1a2e" alt="profile views" />
 
 </div>
 
@@ -20,7 +17,7 @@
 
 <br>
 
-## ◆ About
+## 🎯 About
 
 I'm an AI & Data Science undergraduate at Dhaanish Ahmed College of Engineering, Chennai, building real, working systems around Machine Learning, LLMs, and Retrieval-Augmented Generation — mostly self-directed, mostly because I wanted to understand how these systems *actually* work, not just read about them.
 
@@ -28,7 +25,7 @@ I care about AI Safety and Responsible AI as much as I care about shipping — t
 
 <br>
 
-## ◆ Currently
+## 🔭 Currently
 
 ```
 🎓  Pursuing B.Tech in AI & Data Science  ·  CGPA 8.1/10  ·  Class of 2027
@@ -39,40 +36,50 @@ I care about AI Safety and Responsible AI as much as I care about shipping — t
 
 <br>
 
-## ◆ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=C9A227" />
-<img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=C9A227" />
-<img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=C9A227" />
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+<br><br>
 
 **ML / DL**
-<img src="https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=C9A227" />
-<img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=C9A227" />
-<img src="https://img.shields.io/badge/Scikit--learn-000000?style=flat-square&logo=scikit-learn&logoColor=C9A227" />
-<img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=C9A227" />
-<img src="https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=C9A227" />
+<br>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<br><br>
 
 **LLM & Agentic AI**
-<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logoColor=C9A227" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=C9A227" />
-<img src="https://img.shields.io/badge/RAG-000000?style=flat-square&logoColor=C9A227" />
-<img src="https://img.shields.io/badge/AI%20Agents-000000?style=flat-square&logoColor=C9A227" />
+<br>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Agents-EC4899?style=for-the-badge&logoColor=white" />
+
+<br><br>
 
 **Backend & Tools**
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=C9A227" />
-<img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=C9A227" />
-<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=C9A227" />
-<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=C9A227" />
-<img src="https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=C9A227" />
+<br>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 </div>
 
 <br>
 
-## ◆ Selected Work
+## 🚀 Selected Work
 
 <table>
 <tr>
@@ -80,14 +87,16 @@ I care about AI Safety and Responsible AI as much as I care about shipping — t
 
 ### 🔒 Local LLM Integration
 Fully offline, private document Q&A using Llama 3.2 served locally via Ollama — zero reliance on external APIs.
-<br><sub>`Python` `Flask` `Ollama` `pypdf`</sub>
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-1a1a2e?style=flat-square&logoColor=white" />
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛍️ AI E-Commerce Agent
 Agentic shopping assistant on Google's ADK with Gemini 2.5 Flash, routing across 7 purpose-built tools.
-<br><sub>`Python` `Google ADK` `Gemini 2.5 Flash`</sub>
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini%202.5-8E2DE2?style=flat-square&logoColor=white" />
 
 </td>
 </tr>
@@ -96,14 +105,16 @@ Agentic shopping assistant on Google's ADK with Gemini 2.5 Flash, routing across
 
 ### 💬 PDF Q&A ChatBot
 Cloud-hosted conversational document Q&A using DeepSeek-R1 via Hugging Face's inference router.
-<br><sub>`Python` `Flask` `DeepSeek-R1` `Hugging Face`</sub>
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/DeepSeek--R1-536AF5?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
 
 </td>
 <td width="50%" valign="top">
 
 ### ♻️ AI-Powered Smart Waste Segregation
 Computer-vision waste sorting system — the most-forked project on this profile. Featured build.
-<br><sub>`TypeScript` `Next.js` `Firebase`</sub>
+<br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 
 </td>
 </tr>
@@ -112,14 +123,16 @@ Computer-vision waste sorting system — the most-forked project on this profile
 
 ### ❤️ Heart Disease Prediction
 Supervised classification model predicting cardiac risk from patient health records; +15% accuracy via feature engineering.
-<br><sub>`Python` `Scikit-learn` `Pandas`</sub>
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 
 </td>
 <td width="50%" valign="top">
 
 ### 📈 More on GitHub
 Additional experiments in stock prediction, customer segmentation, and internship work — browse the full profile below.
-<br><sub>`Jupyter` `Python`</sub>
+<br>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 </td>
 </tr>
@@ -127,7 +140,7 @@ Additional experiments in stock prediction, customer segmentation, and internshi
 
 <br>
 
-## ◆ Experience
+## 💼 Experience
 
 ```
 AI Intern — CodSoft                          Jul 2025 – Aug 2025
@@ -140,18 +153,22 @@ Data Analytics Intern — NSIC                 Jan 2025
 
 <br>
 
-## ◆ GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Smk2409&show_icons=true&theme=dark&hide_border=true&title_color=C9A227&icon_color=C9A227&text_color=ffffff&bg_color=000000" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Smk2409&theme=dark&hide_border=true&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&background=000000" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Smk2409&show_icons=true&theme=radical&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=ffffff&bg_color=1a1a2e" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Smk2409&theme=radical&hide_border=true&ring=FF6B6B&fire=FFD93D&currStreakLabel=4ECDC4&background=1a1a2e" width="48%" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Smk2409&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=4ECDC4&line=FF6B6B&point=FFD93D" width="97%" />
 
 </div>
 
 <br>
 
-## ◆ Beyond the Code
+## 🏅 Beyond the Code
 
 ```
 🏅  Rajya Puraskar Award — Bharat Scouts and Guides (State-level)
@@ -161,22 +178,22 @@ Data Analytics Intern — NSIC                 Jan 2025
 
 <br>
 
-## ◆ Let's Connect
+## 📫 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/selvamuthukumaran-g-9471502b9">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=C9A227" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:selvamuthukumaran2409@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=C9A227" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/Smk2409">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=C9A227" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-<sub>✦ Built with intent, not convenience. ✦</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer" width="100%"/>
 
 </div>
