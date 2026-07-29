@@ -1,0 +1,81 @@
+<svg viewBox="0 0 1200 750" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg5" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#2e1a2e"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="750" rx="14" fill="#0d0d18"/>
+  <rect x="0" y="0" width="1200" height="46" rx="14" fill="#22223a"/>
+  <rect x="0" y="30" width="1200" height="16" fill="#22223a"/>
+  <circle cx="26" cy="23" r="7" fill="#FF5F56"/>
+  <circle cx="50" cy="23" r="7" fill="#FFBD2E"/>
+  <circle cx="74" cy="23" r="7" fill="#27C93F"/>
+  <rect x="110" y="12" width="700" height="22" rx="11" fill="#14142a"/>
+  <text x="130" y="27" font-family="monospace" font-size="13" fill="#8888aa">heart_disease_prediction.ipynb — Jupyter</text>
+
+  <rect x="0" y="46" width="1200" height="704" fill="url(#bg5)"/>
+
+  <text x="60" y="108" font-family="Segoe UI, sans-serif" font-size="30" font-weight="700" fill="#ffffff">❤️ Heart Disease Prediction</text>
+  <text x="60" y="138" font-family="Segoe UI, sans-serif" font-size="15" fill="#9a9ac0">Scikit-learn classification &#183; +15% accuracy via feature engineering</text>
+
+  <!-- input form -->
+  <rect x="60" y="170" width="360" height="420" rx="16" fill="#20203a" stroke="#3a3a5c" stroke-width="1.5"/>
+  <text x="90" y="205" font-family="Segoe UI, sans-serif" font-size="15" font-weight="600" fill="#ffffff">Patient Vitals</text>
+
+  <g font-family="Segoe UI, sans-serif" font-size="12" fill="#9a9ac0">
+    <text x="90" y="240">Age</text>
+    <rect x="90" y="248" width="300" height="30" rx="8" fill="#171728"/>
+    <text x="105" y="268" fill="#dcdcf5">58</text>
+
+    <text x="90" y="298">Cholesterol (mg/dL)</text>
+    <rect x="90" y="306" width="300" height="30" rx="8" fill="#171728"/>
+    <text x="105" y="326" fill="#dcdcf5">246</text>
+
+    <text x="90" y="356">Resting Blood Pressure</text>
+    <rect x="90" y="364" width="300" height="30" rx="8" fill="#171728"/>
+    <text x="105" y="384" fill="#dcdcf5">142</text>
+
+    <text x="90" y="414">Max Heart Rate</text>
+    <rect x="90" y="422" width="300" height="30" rx="8" fill="#171728"/>
+    <text x="105" y="442" fill="#dcdcf5">128</text>
+  </g>
+
+  <rect x="90" y="480" width="300" height="44" rx="22" fill="#EC4899"/>
+  <text x="240" y="507" font-family="Segoe UI, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="600">Predict Risk</text>
+
+  <!-- result panel -->
+  <rect x="450" y="170" width="690" height="200" rx="16" fill="#20203a" stroke="#3a3a5c" stroke-width="1.5"/>
+  <text x="480" y="205" font-family="Segoe UI, sans-serif" font-size="15" font-weight="600" fill="#ffffff">Risk Assessment</text>
+
+  <circle cx="560" cy="290" r="70" fill="none" stroke="#2a2a4a" stroke-width="14"/>
+  <circle cx="560" cy="290" r="70" fill="none" stroke="#F7931E" stroke-width="14" stroke-dasharray="325 440" stroke-linecap="round" transform="rotate(-90 560 290)"/>
+  <text x="560" y="298" font-family="Segoe UI, sans-serif" font-size="26" font-weight="700" fill="#ffffff" text-anchor="middle">74%</text>
+  <text x="560" y="335" font-family="Segoe UI, sans-serif" font-size="11" fill="#9a9ac0" text-anchor="middle">Elevated Risk</text>
+
+  <text x="670" y="250" font-family="Segoe UI, sans-serif" font-size="13" fill="#dcdcf5">Model: Random Forest (tuned)</text>
+  <text x="670" y="278" font-family="Segoe UI, sans-serif" font-size="13" fill="#dcdcf5">Accuracy: 89.4% (+15% vs. baseline)</text>
+  <text x="670" y="306" font-family="Segoe UI, sans-serif" font-size="13" fill="#dcdcf5">Top features: Cholesterol, Age, Max HR</text>
+  <text x="670" y="334" font-family="Segoe UI, sans-serif" font-size="13" fill="#dcdcf5">Recommendation: Clinical follow-up advised</text>
+
+  <!-- feature importance chart -->
+  <rect x="450" y="390" width="690" height="200" rx="16" fill="#20203a" stroke="#3a3a5c" stroke-width="1.5"/>
+  <text x="480" y="425" font-family="Segoe UI, sans-serif" font-size="15" font-weight="600" fill="#ffffff">Feature Importance</text>
+
+  <g font-family="Segoe UI, sans-serif" font-size="11" fill="#9a9ac0">
+    <text x="480" y="455">Cholesterol</text>
+    <rect x="600" y="443" width="220" height="16" rx="8" fill="#F7931E"/>
+
+    <text x="480" y="485">Age</text>
+    <rect x="600" y="473" width="170" height="16" rx="8" fill="#EC4899"/>
+
+    <text x="480" y="515">Max Heart Rate</text>
+    <rect x="600" y="503" width="140" height="16" rx="8" fill="#4ECDC4"/>
+
+    <text x="480" y="545">Blood Pressure</text>
+    <rect x="600" y="533" width="100" height="16" rx="8" fill="#8E2DE2"/>
+  </g>
+
+  <text x="60" y="650" font-family="monospace" font-size="12" fill="#5a5a80">Python · Scikit-learn · Pandas · NumPy</text>
+</svg>

@@ -1,0 +1,59 @@
+<svg viewBox="0 0 1200 750" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#16213e"/>
+    </linearGradient>
+    <linearGradient id="accent3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#536AF5"/>
+      <stop offset="100%" stop-color="#FFD21E"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="750" rx="14" fill="#0d0d18"/>
+  <rect x="0" y="0" width="1200" height="46" rx="14" fill="#22223a"/>
+  <rect x="0" y="30" width="1200" height="16" fill="#22223a"/>
+  <circle cx="26" cy="23" r="7" fill="#FF5F56"/>
+  <circle cx="50" cy="23" r="7" fill="#FFBD2E"/>
+  <circle cx="74" cy="23" r="7" fill="#27C93F"/>
+  <rect x="110" y="12" width="700" height="22" rx="11" fill="#14142a"/>
+  <text x="130" y="27" font-family="monospace" font-size="13" fill="#8888aa">localhost:5000 — DeepSeek-R1 Document Chat</text>
+
+  <rect x="0" y="46" width="1200" height="704" fill="url(#bg3)"/>
+
+  <text x="60" y="108" font-family="Segoe UI, sans-serif" font-size="30" font-weight="700" fill="#ffffff">💬 PDF Q&amp;A ChatBot</text>
+  <text x="60" y="138" font-family="Segoe UI, sans-serif" font-size="15" fill="#9a9ac0">Model: DeepSeek-R1 &#183; Served via Hugging Face Inference Router</text>
+
+  <rect x="900" y="90" width="240" height="34" rx="17" fill="#2a2a1a"/>
+  <circle cx="920" cy="107" r="5" fill="#FFD21E"/>
+  <text x="935" y="112" font-family="Segoe UI, sans-serif" font-size="12" fill="#fff6d8">Cloud-hosted &#183; Hugging Face</text>
+
+  <rect x="60" y="170" width="1080" height="430" rx="16" fill="#20203a" stroke="#3a3a5c" stroke-width="1.5"/>
+
+  <rect x="90" y="195" width="360" height="20" rx="10" fill="#171728"/>
+  <text x="102" y="210" font-family="Segoe UI, sans-serif" font-size="11" fill="#8888aa">📄 research_paper.pdf uploaded</text>
+
+  <rect x="700" y="230" width="400" height="46" rx="14" fill="url(#accent3)"/>
+  <text x="725" y="258" font-family="Segoe UI, sans-serif" font-size="13" fill="#0d0d18" font-weight="600">What methodology did the authors use?</text>
+
+  <rect x="90" y="290" width="560" height="110" rx="14" fill="#171728"/>
+  <text x="115" y="318" font-family="Segoe UI, sans-serif" font-size="13" fill="#dcdcf5">The authors used a mixed-methods approach,</text>
+  <text x="115" y="338" font-family="Segoe UI, sans-serif" font-size="13" fill="#dcdcf5">combining a randomized controlled trial with</text>
+  <text x="115" y="358" font-family="Segoe UI, sans-serif" font-size="13" fill="#dcdcf5">qualitative interviews (Section 3, p. 12) —</text>
+  <text x="115" y="378" font-family="Segoe UI, sans-serif" font-size="13" fill="#dcdcf5">grounded directly in the uploaded document.</text>
+
+  <rect x="770" y="415" width="330" height="46" rx="14" fill="url(#accent3)"/>
+  <text x="795" y="443" font-family="Segoe UI, sans-serif" font-size="13" fill="#0d0d18" font-weight="600">Any limitations mentioned?</text>
+
+  <rect x="90" y="475" width="150" height="46" rx="14" fill="#171728"/>
+  <circle cx="120" cy="498" r="5" fill="#536AF5"/>
+  <circle cx="140" cy="498" r="5" fill="#536AF5"/>
+  <circle cx="160" cy="498" r="5" fill="#536AF5"/>
+
+  <rect x="90" y="545" width="1020" height="44" rx="22" fill="#171728" stroke="#4a4a78" stroke-width="1.5"/>
+  <text x="115" y="572" font-family="Segoe UI, sans-serif" font-size="13" fill="#6a6a9c">Ask something about the document...</text>
+  <circle cx="1078" cy="567" r="22" fill="url(#accent3)"/>
+  <text x="1078" y="573" font-family="Segoe UI, sans-serif" font-size="16" fill="#0d0d18" text-anchor="middle">➤</text>
+
+  <text x="60" y="650" font-family="monospace" font-size="12" fill="#5a5a80">Python · Flask · DeepSeek-R1 · Hugging Face · pypdf</text>
+</svg>
